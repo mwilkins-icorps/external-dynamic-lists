@@ -22,7 +22,7 @@ assets-yammer.com
 assets.onestore.ms
 auth.gfx.ms
 auth.microsoft.com
-autodiscover.*.onmicrosoft.com
+autodiscover.onmicrosoft.com
 autologon.microsoftazuread-sso.com
 azure-apim.net
 azurerms.com
